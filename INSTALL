@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Building INTICOIN
 
 See doc/readme-qt.rst for instructions on building INTICOIN QT,
@@ -8,14 +7,4 @@ implementation of INTICOIN.
 See doc/build-*.txt for instructions on building INTICOINd,
 the intended-for-services, no-graphical-interface, reference
 implementation of INTICOIN.
-=======
-Building InflationCoin
 
-See doc/readme-qt.rst for instructions on building InflationCoin QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of InflationCoin.
-
-See doc/build-*.txt for instructions on building InflationCoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of InflationCoin.
->>>>>>> 3f3d3f79ebc2771e38078e7406f13918d57887da

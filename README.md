@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 INTICOIN - INTI
 
 INTICOIN is an X11 PoW/PoS coin. It is a coin that integrated with true random super bonus block features. It uses high PoS as a way of distributing fairly the coins to community.
-=======
-InflationCoin - IFLT
 
-InflationCoin is an X11 PoW/PoS coin. It is a coin that integrated with true random super bonus block features. It uses high PoS as a way of distributing fairly the coins to community.
->>>>>>> 3f3d3f79ebc2771e38078e7406f13918d57887da
 
 - X11 hash algorithm, PoW/PoS mixed
 - 5 transaction confirmations
@@ -34,10 +29,7 @@ PoS details:
 	- subsequent years: 4%
 
 Ports:
-<<<<<<< HEAD
+
 connection:	55884
 RPC:		55883
-=======
-connection:	11370
-RPC:			11371
->>>>>>> 3f3d3f79ebc2771e38078e7406f13918d57887da
+
